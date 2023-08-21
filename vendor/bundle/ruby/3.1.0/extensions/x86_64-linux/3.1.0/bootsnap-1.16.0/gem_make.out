@@ -1,0 +1,18 @@
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/root/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-8zvnx5 sitelibdir\=./.gem.20230730-21085-8zvnx5 clean
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-8zvnx5 sitelibdir\=./.gem.20230730-21085-8zvnx5
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-8zvnx5 sitelibdir\=./.gem.20230730-21085-8zvnx5 install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20230730-21085-8zvnx5/bootsnap
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-8zvnx5 sitelibdir\=./.gem.20230730-21085-8zvnx5 clean

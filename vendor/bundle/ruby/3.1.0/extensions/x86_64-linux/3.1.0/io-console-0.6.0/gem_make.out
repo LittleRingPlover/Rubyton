@@ -1,0 +1,22 @@
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+/root/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-ho7iwk sitelibdir\=./.gem.20230730-21085-ho7iwk clean
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-ho7iwk sitelibdir\=./.gem.20230730-21085-ho7iwk
+compiling console.c
+linking shared-object io/console.so
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-ho7iwk sitelibdir\=./.gem.20230730-21085-ho7iwk install
+/usr/bin/install -c -m 0755 console.so ./.gem.20230730-21085-ho7iwk/io
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-ho7iwk sitelibdir\=./.gem.20230730-21085-ho7iwk clean

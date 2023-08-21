@@ -1,0 +1,20 @@
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+/root/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-s6p5g3 sitelibdir\=./.gem.20230730-21085-s6p5g3 clean
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-s6p5g3 sitelibdir\=./.gem.20230730-21085-s6p5g3
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-s6p5g3 sitelibdir\=./.gem.20230730-21085-s6p5g3 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230730-21085-s6p5g3/racc
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-s6p5g3 sitelibdir\=./.gem.20230730-21085-s6p5g3 clean

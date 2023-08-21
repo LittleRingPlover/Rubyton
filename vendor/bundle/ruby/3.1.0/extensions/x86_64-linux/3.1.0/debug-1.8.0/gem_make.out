@@ -1,0 +1,19 @@
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+/root/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-6xgkjl sitelibdir\=./.gem.20230730-21085-6xgkjl clean
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-6xgkjl sitelibdir\=./.gem.20230730-21085-6xgkjl
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-6xgkjl sitelibdir\=./.gem.20230730-21085-6xgkjl install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230730-21085-6xgkjl/debug
+
+current directory: /root/Rubyton/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230730-21085-6xgkjl sitelibdir\=./.gem.20230730-21085-6xgkjl clean
